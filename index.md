@@ -6,6 +6,9 @@ layout: default
     
   </head>
   <body>
-    <h1>Hi</h1>
+    # Welcome To R Code Studios
+    <br>
+    ## What is R Code Studios?
+    ## It's Easy... it's a Company
   </body>
 </html>
