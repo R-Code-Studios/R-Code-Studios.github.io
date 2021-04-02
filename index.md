@@ -1,8 +1,6 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+layout: default
 ---
-<!doctype html>
 <html>
   <head>
     <title>R Code Studios</title>
