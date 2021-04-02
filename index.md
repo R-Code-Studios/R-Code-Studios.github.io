@@ -3,7 +3,7 @@ layout: default
 ---
 <html>
   <head>
-    <title>R Code Studios</title>
+    
   </head>
   <body>
     <h1>Hi</h1>
